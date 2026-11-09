@@ -130,6 +130,12 @@ QVMConsole 是一个面向小型企业和个人私有云服务场景的开源虚
 
 ---
 
+## 一键部署
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/QVMConsole/)
+
+---
+
 ## 合并上游修改
 
 当标准仓库后端有修改时，请参阅 [`docs/merge-from-upstream.md`](docs/merge-from-upstream.md) 获取详细合并指南。
